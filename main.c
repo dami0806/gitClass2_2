@@ -1,6 +1,7 @@
 #include<stdio.h>
 int main(void){
-print("1");
-print("2");
+printf("1");
+printf("2");
+printf("3");
 return 0;
 }
